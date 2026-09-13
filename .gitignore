@@ -1,0 +1,7 @@
+out/
+# Vendor .so files copied off the robot to link against -- not ours to
+# redistribute. See README.md for how to populate this before building.
+reflib/*.so
+.idea/
+.vscode/
+.DS_Store
